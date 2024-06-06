@@ -3,4 +3,4 @@ The project integrates mechanical and electrical design, incorporating a robot a
 
 This github site details project CAD files, videos, Arduino code, and a bill of materials.
 
-NOTE: For the CAD section, "Ben Updated Design" is the final assembly, the rest of the files are parts which just need to be in the path in order to load. There is also another folder which just as a .step file for viewing the assembly.
+NOTE: For the CAD section, "Ben Updated Design" is the final assembly, the rest of the files are parts which just need to be in the path in order to load. There is also another folder which just as a .step and .sldprt file for viewing the assembly surface geomtry.
